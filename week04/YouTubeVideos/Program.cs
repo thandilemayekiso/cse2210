@@ -4,9 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the YouTubeVideos Project.");
-        using System;
-using System.Collections.Generic;
+            Console.WriteLine("Hello World! This is the YouTubeVideos Project.");
+        }
 
 // Comment Class: Represents an individual comment
 public class Comment
@@ -61,7 +60,7 @@ public class Video
     }
 }
 
-public class Program
+public class YouTubeProgram
 {
     public static void Main()
     {
@@ -96,6 +95,6 @@ public class Program
         }
     }
 }
-
-    }
 }
+
+
